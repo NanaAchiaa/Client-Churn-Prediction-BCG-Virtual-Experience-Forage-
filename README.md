@@ -23,7 +23,7 @@ I created new variables such as contract duration, monthly average usage, recent
 I trained two models—Random Forest and XGBoost. Both were tested using ROC AUC, classification reports, and precision-recall tradeoffs. I also tuned thresholds to get the best F1 scores.
 XGBoost came out slightly ahead and was selected as the final model.
 
-### 📊 Results at a Glance
+### Results at a Glance
 
 | Model              | ROC-AUC  | F1 Score | Key Strength                                  |
 |-------------------|----------|----------|-----------------------------------------------|
